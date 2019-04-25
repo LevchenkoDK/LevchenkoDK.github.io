@@ -10,7 +10,7 @@ nav ul {display:inline;}
 nav ul a {font-size:30px; padding: 0px 300px 0px 0px; text-decoration:none;}
 
 section{}
-aside.left {float:left; padding-left:30px; width:20%; }
+aside.left {float:left; padding-left:30px; width:20%; padding-top: 30px}
 aside.right {float:right; padding-left: 60px; width:20%; padding-right:30px}
 article{float:left; width:30%; padding-left: 15%;}
 
