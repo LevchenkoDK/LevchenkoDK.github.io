@@ -5,7 +5,7 @@ img {margin: 30px;}
 
 .contacts {padding-right:30px; font-size:20px; text-align:right;}
 
-nav li a {font-size:30px; text-decoration:none; padding: 2%; display:inline;}
+nav ul a {font-size:30px; text-decoration:none; padding: 2%; display:inline;}
 
 section{}
 aside.left {float:left; padding-left:30px; width:20%; }
